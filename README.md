@@ -37,7 +37,7 @@
 - 📋 [Form Builder](#) — Create and manage dynamic forms 
 - 🌌 [CosmoExplorer](#) — 3D space exploration experience
 
-
+---
 ## 📊 GitHub Stats & Activity
 
 ![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=borghiste&show_icons=true&theme=tokyonight&hide_border=true)  
@@ -45,7 +45,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borghiste&layout=compact&theme=tokyonight&hide_border=true)
 
 
-
+---
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-borghi-dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/StefanoTechStack)
