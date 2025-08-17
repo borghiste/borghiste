@@ -11,7 +11,7 @@
 - 🔭 Currently working on **React + Laravel** projects
 - 🛠 Skilled in **TypeScript, JavaScript and React**
 - 🎯 Goal: Build intuitive and performant web applications
-- ⛽️ Fuelled by EDM and literature
+- ⛽️ Fuelled by EDM
 
 
 ## 🧰 Tech Stack
