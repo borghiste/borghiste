@@ -35,7 +35,7 @@
 
 ## 📂 Featured Projects
 - 📋 [Form Builder](#) — Create and manage dynamic forms 
-- 🌌 [CosmoExplorer](#) — 3D space exploration experience
+- 🌌 [CosmoExplorer](#) — 3D space exploration website
 
 ---
 ## 📊 GitHub Stats & Activity
