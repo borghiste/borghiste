@@ -3,11 +3,11 @@
 
 # 👋 Hi, I'm Stefano
 * 💻  **Front-End Web Developer**
-*  🤝 **Open Source Enthusiast
+*  🤝 **Open Source Enthusiast**
 ---
 
 ##  About Me
-- 🔭 Currently working on **React + Laravel** projects
+- 🔭 Currently working on **React + Laravel** project
 - 🛠 Skilled in ** JavaScrip,Typescript and React**
 - Avid Reader
 - ⛽️ Fuelled by EDM
