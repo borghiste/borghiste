@@ -2,15 +2,14 @@
 
 
 # 👋 Hi, I'm Stefano
-
-💻 **Front-End Web Developer** | 🚀 Passionate about tech, UI/UX, and modern web technologies.
-
+* 💻  **Front-End Web Developer**
+*  🤝 **Open Source Enthusiast
 ---
 
-## 🌟 About Me
+##  About Me
 - 🔭 Currently working on **React + Laravel** projects
-- 🛠 Skilled in **TypeScript, JavaScript and React**
-- 🎯 Goal: Build intuitive and performant web applications
+- 🛠 Skilled in ** JavaScrip,Typescript and React**
+- Avid Reader
 - ⛽️ Fuelled by EDM
 
 
@@ -21,9 +20,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 **Backend:**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?laravel=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
