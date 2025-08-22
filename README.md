@@ -8,7 +8,7 @@
 
 ##  About Me
 - 🔭 Currently working on **React + Laravel** project
-- 🛠 Skilled in **JavaScrip,Typescript and React**
+- 🛠 Skilled in **JavaScript,Typescript and React**
 - Avid Reader
 - ⛽️ Fuelled by EDM
 
