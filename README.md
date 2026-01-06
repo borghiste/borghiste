@@ -1,54 +1,77 @@
 ![banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=200&section=header&text=Stefano%20Tech%20Stack&fontSize=40&fontColor=00ff88&animation=blink&fontAlignY=50)
 
-
 # 👋 Hi, I'm Stefano
-* 💻  **Front-End Web Developer**
-*  🤝 **Open Source Enthusiast**
+
+💻 **Front-End Web Developer**  
+🤝 **Open Source Enthusiast**  
+🚀 Building clean, scalable and user-focused web applications
+
 ---
 
-##  About Me
-- 🔭 Currently working on **React + Laravel** project
-- 🛠 Skilled in **JavaScript,Typescript and React**
-- Avid Reader
-- ⛽️ Fuelled by EDM
+## 🧠 About Me
 
+- 🔭 Currently working on **React + Laravel** projects  
+- 🛠 Strong focus on **JavaScript, TypeScript & React**  
+- 📚 Avid reader, always improving my craft  
+- 🎧 EDM-fueled coding sessions  
+
+I focus on **maintainable code**, **good UX**, and **real-world projects**.
+
+---
 
 ## 🧰 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-**Backend:**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?laravel=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-**Other Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### Tools & Workflow
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-- 📋 [Form Builder](#) — Create and manage dynamic forms 
-- 🌌 [CosmoExplorer](#) — 3D space exploration website
+
+- 📋 **Form Builder**  
+  Dynamic form builder with custom fields, validations and REST API backend.
+
+- 🌌 **CosmoExplorer**  
+  3D space exploration experience built with **React Three Fiber**.
 
 ---
+
 ## 📊 GitHub Stats & Activity
 
-![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=borghiste&show_icons=true&theme=tokyonight&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borghiste&layout=compact&theme=tokyonight&hide_border=true)
 
+
+
+### 🔥 Contributions Breakdown
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borghiste&theme=tokyonight)
+
+### 🧾 Commits, PRs & Contributions
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borghiste&theme=tokyonight)
+
+### 🛠️ Repositories & Open Source
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borghiste&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borghiste&theme=tokyonight)
 
 ---
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-borghi-dev)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/StefanoTechStack)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-borghi-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/StefanoTechStack)
 
 ---
 
+⭐️ *Always open to collaboration, open-source contributions and new challenges.*
