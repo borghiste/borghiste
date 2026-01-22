@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Stefano
 
-💻 **Front-End Web Developer**  
-🤝 **Open Source Enthusiast**  
-🚀 Building clean, scalable and user-focused web applications
+💻 **Web Developer (Front-End focused)**  
+🔐 **Application Security–aware Engineer**  
+🤝 **Open Source Enthusiast**
+
+I build **clean, scalable and secure web applications** with a strong focus on real-world usability.
 
 ---
 
@@ -12,10 +14,23 @@
 
 - 🔭 Currently working on **React + Laravel** projects  
 - 🛠 Strong focus on **JavaScript, TypeScript & React**  
-- 📚 Avid reader, always improving my craft  
+- 🔐 Security-first mindset: validation, auth flows, data protection  
+- 📚 Continuous learner, always refining my craft  
 - 🎧 EDM-fueled coding sessions  
 
-I focus on **maintainable code**, **good UX**, and **real-world projects**.
+I care about **maintainable code**, **good UX**, **application security**, and **long-term scalability**.
+
+---
+
+## 🔐 Security Mindset
+
+- Secure authentication & authorization flows  
+- Client-side and server-side validation  
+- Awareness of common web vulnerabilities (**OWASP Top 10**)  
+- Predictable and safe data handling  
+- Clean separation between UI, logic and API layers  
+
+Security is not an afterthought — it’s part of the design.
 
 ---
 
@@ -42,18 +57,15 @@ I focus on **maintainable code**, **good UX**, and **real-world projects**.
 ## 📂 Featured Projects
 
 - 📋 **Form Builder**  
-  Dynamic form builder with custom fields, validations and REST API backend.
+  Dynamic form builder with custom fields, validations, and REST API backend.  
+  Focus on data integrity, validation logic and scalable architecture.
 
 - 🌌 **CosmoExplorer**  
-  3D space exploration experience built with **React Three Fiber**.
+  3D space exploration experience built with **React Three Fiber**, focused on performance and user interaction.
 
 ---
 
 ## 📊 GitHub Stats & Activity
-
-
-
-
 
 ### 🔥 Contributions Breakdown
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borghiste&theme=tokyonight)
@@ -74,4 +86,5 @@ I focus on **maintainable code**, **good UX**, and **real-world projects**.
 
 ---
 
-⭐️ *Always open to collaboration, open-source contributions and new challenges.*
+⭐️ *Always open to collaboration, open-source contributions and meaningful challenges.*
+
