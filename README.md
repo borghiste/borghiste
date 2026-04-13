@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Stefano
 
 💻 **Web Developer (Front-End focused)**  
-🔐 **Application Security–aware Engineer**  
+🔐 **Application Security–aware**  
 🤝 **Open Source Enthusiast**
 
 I build **clean, scalable and secure web applications** with a strong focus on real-world usability.
